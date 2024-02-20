@@ -6,7 +6,7 @@ Dieses Repository enthält meine Zusammenfassung für die Zwischenprüfung. Die 
 
 ## Empfehlung für Obsidian
 
-Für eine optimale Nutzung wird empfohlen, diese in [Obsidian](https://obsidian.md/) zu importieren. Obsidian ermöglicht es, Notizen und Dokumente effizient zu organisieren, zu verknüpfen und zu durchsuchen, was die Vorbereitung auf die Zwischenprüfung erheblich erleichtern kann. Du kannst die Zusammenfassun auch ohne Obsidian nutzen, du könntest aber Probleme mit Verlinkungen oder komisch gerenderten Dateien haben.
+Für eine optimale Nutzung wird empfohlen, dieses Repository in [Obsidian](https://obsidian.md/) zu importieren. Obsidian ermöglicht es, Notizen und Dokumente effizient zu organisieren, zu verknüpfen und zu durchsuchen, was die Vorbereitung auf die Zwischenprüfung erheblich erleichtern kann. Du kannst die Zusammenfassun auch ohne Obsidian nutzen, du könntest aber Probleme mit Verlinkungen oder komisch gerenderten Dateien haben.
 
 ## Inhalte
 
