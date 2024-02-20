@@ -21,6 +21,11 @@ Für eine optimale Nutzung wird empfohlen, dieses Repository in [Obsidian](https
 	- [ ] Issue-Tracker-System
 	- [ ] ITIL
 	- [ ] Support Level
+	- [ ] Serviceanfragen erfassen, vertragliche Grundlagen prüfen
+	- [ ] Serviceanfragen einordnen
+	- [ ] Fehlerursachen und Lösungsmöglichkeiten ermitteln
+	- [ ] Situationsgerecht kommunizieren
+	- [ ] Bearbeitungsprozess analysieren/ verbessern
 - [ ] Lernfeld 7
 - [ ] Lernfeld 8
 - [ ] Lernfeld 9

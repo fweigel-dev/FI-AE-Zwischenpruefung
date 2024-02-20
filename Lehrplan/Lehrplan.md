@@ -139,8 +139,8 @@ Sie evaluieren den Prozess der Softwareentwicklung.
 ---
 
 # Lernfeld 6: Serviceanfragen bearbeiten
-2. Ausbildungsjahr
-Zeitrichtwert: 40 Stunden
+_2. Ausbildungsjahr_
+_Zeitrichtwert: 40 Stunden_
 
 
 **Die Schülerinnen und Schüler verfügen über die Kompetenz, Serviceanfragen einzuordnen, Fehlerursachen zu ermitteln und zu beheben.**

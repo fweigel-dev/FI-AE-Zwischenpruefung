@@ -8,7 +8,45 @@
         "type": "tabs",
         "children": [
           {
+            "id": "4b70c79a4175112b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "04fa6ec068742775",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lernfeld_6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6fbd36f153656e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lernfeld_6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "639d863fe99d86f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +56,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d6812dcf3db7c044",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lehrplan/BS_Technische IT Berufe_2019-12-13.pdf"
+              }
+            }
+          },
+          {
+            "id": "b8b00a7c1127f5d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lernfeld_6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lehrplan/Lehrplan.md",
+                "file": "Lernfeld_6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lehrplan/Lehrplan.md",
+                "file": "Lernfeld_6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lehrplan/Lehrplan.md"
+                "file": "Lernfeld_6/Lernfeld 6 - Serviceanfragen bearbeiten.md"
               }
             }
           }
@@ -138,17 +199,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false
     }
   },
   "active": "04fa6ec068742775",
   "lastOpenFiles": [
+    "Lernfeld_6/Lernfeld 6 - Serviceanfragen bearbeiten.pdf",
+    "Lernfeld_6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
+    "Lehrplan/Lehrplan.md",
     "README.md",
+    "LICENSE.md",
+    "Lernfeld_6/Serviceanfragen erfassen sowie deren vertragliche Grundlagen prüfen.md",
+    "Lehrplan/BS_Technische IT Berufe_2019-12-13.pdf",
     "Lehrplan",
     "Lernfeld_9",
     "Lernfeld_8",
@@ -157,9 +224,6 @@
     "Lernfeld_5",
     "Lernfeld_4",
     "Lernfeld_3",
-    "Lernfeld_2",
-    "Lernfeld_1",
-    "Lehrplan/Lehrplan.md",
     "Welcome.md"
   ]
 }
