@@ -22,58 +22,26 @@
             }
           },
           {
-            "id": "04fa6ec068742775",
+            "id": "de99927309e15d23",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Lernfeld_6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "c6fbd36f153656e3",
+            "id": "eef7b27f957b5b8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lernfeld_6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "639d863fe99d86f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lehrplan/Lehrplan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6812dcf3db7c044",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lehrplan/BS_Technische IT Berufe_2019-12-13.pdf"
-              }
-            }
-          },
-          {
-            "id": "b8b00a7c1127f5d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lernfeld_6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
+                "file": "Lernfeld_6/Serviceanfragen erfassen sowie deren vertragliche Grundlagen prüfen.md",
                 "mode": "source",
                 "source": false
               }
@@ -207,15 +175,16 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "04fa6ec068742775",
+  "active": "de99927309e15d23",
   "lastOpenFiles": [
-    "Lernfeld_6/Lernfeld 6 - Serviceanfragen bearbeiten.pdf",
-    "Lernfeld_6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
-    "Lehrplan/Lehrplan.md",
-    "README.md",
-    "LICENSE.md",
     "Lernfeld_6/Serviceanfragen erfassen sowie deren vertragliche Grundlagen prüfen.md",
+    "Lernfeld_6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
+    "README.md",
+    "Was ist ein Issue-Tracker-System.md",
     "Lehrplan/BS_Technische IT Berufe_2019-12-13.pdf",
+    "Lehrplan/Lehrplan.md",
+    "Lernfeld_6/Lernfeld 6 - Serviceanfragen bearbeiten.pdf",
+    "LICENSE.md",
     "Lehrplan",
     "Lernfeld_9",
     "Lernfeld_8",

@@ -18,7 +18,7 @@ Für eine optimale Nutzung wird empfohlen, dieses Repository in [Obsidian](https
 - [ ] Lernfeld 5
 - [ ] Lernfeld 6: Serviceanfragen bearbeiten
 	- [ ] Arten von Service
-	- [ ] Issue-Tracker-System
+	- [x] Issue-Tracker-System
 	- [ ] ITIL
 	- [ ] Support Level
 	- [ ] Serviceanfragen erfassen, vertragliche Grundlagen prüfen

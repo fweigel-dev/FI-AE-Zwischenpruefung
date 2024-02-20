@@ -14,6 +14,6 @@
 ## Folgendes Informationen sind (vermutlich) ebenfalls relevant:
 
 - Welche Arten von Service gibt es?
-- Was ist ein Issue-Tracker-System?
+- [[Was ist ein Issue-Tracker-System|Was ist ein Issue-Tracker-System?]]
 - Was sind ITIL-Prozesse und Ticketsysteme?
 - Was sind Support Level?
