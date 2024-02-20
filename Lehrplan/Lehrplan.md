@@ -143,7 +143,7 @@ Sie evaluieren den Prozess der Softwareentwicklung.
 Zeitrichtwert: 40 Stunden
 
 
-Die Schülerinnen und Schüler verfügen über die Kompetenz, Serviceanfragen einzuordnen, Fehlerursachen zu ermitteln und zu beheben.
+**Die Schülerinnen und Schüler verfügen über die Kompetenz, Serviceanfragen einzuordnen, Fehlerursachen zu ermitteln und zu beheben.**
 
 Die Schülerinnen und Schüler nehmen Serviceanfragen entgegen (direkter und indirekter Kundenkontakt). Sie analysieren Serviceanfragen und prüfen deren vertragliche Grundlage (Service-Level-Agreement). Sie ermitteln die Reaktionszeit und dokumentieren den Status der Anfragen im zugrundeliegenden Service-Management-System.
 
