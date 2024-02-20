@@ -1,3 +1,7 @@
+---
+source: https://www.bildungsplaene-bw.de/site/bildungsplan/get/documents_E201170933/lsbw/Bildungsplaene-BERS/MediaCenter/bs/bs_berufsbez/BS_Technische%20IT%20Berufe_2019-12-13.pdf
+---
+
 # Inhaltsverzeichnis:
 
 1. [[Lehrplan#Lernfeld 1 Das Unternehmen und die eigene Rolle im Betrieb beschreiben|Das Unternehmen und die eigene Rolle im Betrieb beschreiben]]
