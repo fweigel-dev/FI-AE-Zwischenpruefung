@@ -4,79 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "8040450ab827f989",
+        "id": "ebc1f02c278c6efc",
         "type": "tabs",
         "children": [
           {
-            "id": "04fa6ec068742775",
+            "id": "1fa4e1a28226043c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lernfeld_6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
+                "file": "Lernfeld_6/Serviceanfragen einordnen und analysieren.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bd6853b5928eac68",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "7792af743ed97ab4",
+            "id": "d9721998ecfb69f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lernfeld_6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45aa64b787d3bcfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lernfeld_6/SLA - Service Level Agreement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "209c3e7348926df7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lernfeld_6/SLA - Service Level Agreement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "442c2b76654a855c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lernfeld_6/Kategorisierung und Abläufe.md",
+                "file": "Lernfeld_6/Serviceanfragen einordnen und analysieren.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lernfeld_6/Kategorisierung und Abläufe.md",
+                "file": "Lernfeld_6/Serviceanfragen einordnen und analysieren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lernfeld_6/Kategorisierung und Abläufe.md",
+                "file": "Lernfeld_6/Serviceanfragen einordnen und analysieren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lernfeld_6/Kategorisierung und Abläufe.md"
+                "file": "Lernfeld_6/Serviceanfragen einordnen und analysieren.md"
               }
             }
           },
@@ -203,25 +158,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "442c2b76654a855c",
+  "active": "1fa4e1a28226043c",
   "lastOpenFiles": [
-    "Lernfeld_6/SLA - Service Level Agreement.md",
-    "Lernfeld_6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
-    "Lernfeld_6/Kategorisierung und Abläufe.md",
-    "Lernfeld_6/Serviceanfragen erfassen sowie deren vertragliche Grundlagen prüfen.md",
-    "Lernfeld_6/Was ist ein Issue-Tracker-System.md",
-    "LICENSE.md",
-    "Lehrplan/Lehrplan.md",
     "README.md",
+    "Lernfeld_6/Support Level.md",
+    "LICENSE.md",
+    "Lernfeld_6/ITIL.md",
+    "Lernfeld_6/Kategorisierung und Abläufe.md",
+    "Lernfeld_6/Serviceanfragen einordnen und analysieren.md",
+    "Lernfeld_6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
+    "Lernfeld_6/Serviceanfragen erfassen sowie deren vertragliche Grundlagen prüfen.md",
+    "Lernfeld_6/Situationsgerecht kommunizieren.md",
+    "Lernfeld_6/SLA - Service Level Agreement.md",
+    "Lernfeld_6/Was sind Serviceanfragen.md",
+    "Lernfeld_6/Was ist ein Issue-Tracker-System.md",
+    "Lehrplan/Lehrplan.md",
+    "Lehrplan/BS_Technische IT Berufe_2019-12-13.pdf",
+    "Bearbeitungsprozess analysieren/ verbessern.md",
+    "Bearbeitungsprozess analysieren",
+    "Lernfeld_6/Fehlerursachen und Lösungsmöglichkeiten ermitteln.md",
+    "Lernfeld_6/Arten von Service.md",
     "Lehrplan",
     "Lernfeld_9",
     "Lernfeld_8",
@@ -230,8 +195,6 @@
     "Lernfeld_5",
     "Lernfeld_4",
     "Lernfeld_3",
-    "Lernfeld_2",
-    "Lernfeld_1",
     "Welcome.md"
   ]
 }
