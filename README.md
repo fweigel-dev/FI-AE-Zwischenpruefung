@@ -17,16 +17,17 @@ Für eine optimale Nutzung wird empfohlen, dieses Repository in [Obsidian](https
 - [ ] Lernfeld 4
 - [ ] Lernfeld 5
 - [ ] Lernfeld 6: Serviceanfragen bearbeiten
-	- [ ] Arten von Service
-	- [x] Issue-Tracker-System
-	- [ ] ITIL
-	- [ ] Support Level
-	- [ ] Serviceanfragen erfassen, vertragliche Grundlagen prüfen
-	- [ ] Serviceanfragen einordnen
-	- [ ] Fehlerursachen und Lösungsmöglichkeiten ermitteln
-	- [ ] Situationsgerecht kommunizieren
-	- [ ] Bearbeitungsprozess analysieren/ verbessern
-	- [ ] 
+	- [x] [[Was sind Serviceanfragen]]
+	- [x] [[Arten von Service]]
+	- [x] [[Was ist ein Issue-Tracker-System|Issue-Tracker-System]]
+	- [ ] [[ITIL]]
+	- [x] [[Support Level]]
+	- [x] [[Serviceanfragen erfassen sowie deren vertragliche Grundlagen prüfen|Serviceanfragen erfassen, vertragliche Grundlagen prüfen]]
+	- [ ] [[Serviceanfragen einordnen und analysieren]]
+	- [ ] [[Fehlerursachen und Lösungsmöglichkeiten ermitteln]]
+	- [ ] [[Situationsgerecht kommunizieren]]
+	- [ ] [[Bearbeitungsprozess analysieren/ verbessern]]
+
 ## Quellenangabe
 
 Einige Inhalte in diesem Projekt basieren auf Materialien, die unter der Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) Lizenz veröffentlicht wurden. Diese Inhalte wurden entsprechend der Lizenzbedingungen angepasst und dürfen nicht für kommerzielle Zwecke genutzt werden.

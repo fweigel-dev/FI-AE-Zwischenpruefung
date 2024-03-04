@@ -1,0 +1,3 @@
+- Eine Serviceanfrage ist eine formelle Anforderung, die von einem Mitarbeiter, Kunden oder Lieferanten gestellt wird. Diese Anforderung zielt darauf ab, eine bestimmte, im Voraus festgelegte und vereinbarte Aktion innerhalb des Rahmens der Servicebereitstellung zu initiieren.
+- Serviceanfragen folgen in der Regel einem festgelegten Muster und beziehen sich auf klar definierte Services. Diese Strukturierung hilft bei der effizienten Bearbeitung und Erfüllung der Anfragen.
+- Oftmals wird im Zusammenhang mit Serviceanfragen ein Servicekatalog verwendet. Dieser Katalog dient als detaillierte Auflistung aller verfügbaren Services, die eine Organisation anbietet, und enthält spezifische Informationen wie Beschreibungen, Prozesse und mögliche Kosten für jeden Service.
