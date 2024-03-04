@@ -10,9 +10,6 @@ source: https://www.bildungsplaene-bw.de/site/bildungsplan/get/documents_E201170
 4. [[Lehrplan#Lernfeld 4 Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen|Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen]]
 5. [[Lehrplan#Lernfeld 5 Software zur Verwaltung von Daten anpassen|Software zur Verwaltung von Daten anpassen]]
 6. [[Lehrplan#Lernfeld 6 Serviceanfragen bearbeiten|Serviceanfragen bearbeiten]]
-7. [[Lehrplan#Lernfeld 7 Cyber-physische Systeme ergänzen|Cyber-physische Systeme ergänzen]]
-8. [[Lehrplan#Lernfeld 8 Daten systemübergreifend bereitstellen|Daten systemübergreifend bereitstellen]]
-9. [[Lehrplan#Lernfeld 9 Netzwerke und Dienste bereitstellen|Netzwerke und Dienste bereitstellen]]
 
 ---
 
@@ -152,70 +149,3 @@ Durch systematisches Fragen ordnen die Schülerinnen und Schüler Serviceanfrage
 Sie ermitteln Lösungsmöglichkeiten im Rahmen des Support-Levels. Auf dieser Basis bearbeiten sie das Problem und dokumentieren den Bearbeitungsstatus. Sie kommunizieren mit den Prozessbeteiligten situationsgerecht, auch in einer Fremdsprache, und passen sich den unterschiedlichen Kommunikationsanforderungen an (Kommunikationsmodelle, Deeskalationsstrategien).
 
 Sie reflektieren den Bearbeitungsprozess der Serviceanfragen und ihr Verhalten in Gesprächssituationen. Die Schülerinnen und Schüler diskutieren die Servicefälle und schlagen Maßnahmen zur Qualitätssteigerung vor.
-
----
-
-# Lernfeld 7: Cyber-physische Systeme ergänzen
-2. Ausbildungsjahr
-Zeitrichtwert: 80 Stunden
-
-
-Die Schülerinnen und Schüler verfügen über die Kompetenz, die physische Welt und IT-Systeme funktional zu einem cyber-physischen System zusammenzuführen.
-
-Die Schülerinnen und Schüler analysieren ein cyber-physisches System bezüglich eines Kundenauftrags zur Ergänzung und Inbetriebnahme weiterer Komponenten.
-
-Sie informieren sich über den Datenfluss an der Schnittstelle zwischen physischer Welt und IT-System sowie über die Kommunikation in einem bestehenden Netzwerk. Sie verschaffen sich einen Überblick über die Energie-, Stoff- und Informationsflüsse aller am System beteiligten Geräte und Betriebsmittel.
-
-Die Schülerinnen und Schüler planen die Umsetzung des Kundenwunsches, indem sie Kriterien für die Auswahl von Energieversorgung, Hardware und Software (Bibliotheken, Protokolle) aufstellen. Dazu nutzen sie Unterlagen der technischen Kommunikation und passen diese an.
-
-Sie führen Komponenten mit dem cyber-physischen System funktional zusammen.
-
-Sie prüfen systematisch die Funktion, messen physikalische Betriebswerte, validieren den Energiebedarf und protokollieren die Ergebnisse.
-
-Die Schülerinnen und Schüler reflektieren den Arbeitsprozess hinsichtlich möglicher Optimierungen und diskutieren das Ergebnis in Bezug auf Betriebssicherheit und Datensicherheit.
-
----
-
-# Lernfeld 8: Daten systemübergreifend bereitstellen
-2. Ausbildungsjahr
-Zeitrichtwert: 80 Stunden
-
-
-Die Schülerinnen und Schüler besitzen die Kompetenz, Daten aus dezentralen Quellen zusammenzuführen, aufzubereiten und zur weiteren Nutzung zur Verfügung zu stellen.
-
-Die Schülerinnen und Schüler ermitteln für einen Kundenauftrag Datenquellen und analysieren diese hinsichtlich ihrer Struktur, rechtlicher Rahmenbedingungen, Zugriffsmöglichkeiten und -
-mechanismen.
-
-Sie wählen die Datenquellen (heterogen) für den Kundenauftrag aus.
-
-Sie entwickeln Konzepte zur Bereitstellung der gewählten Datenquellen für die weitere Verarbeitung unter Beachtung der Informationssicherheit.
-
-Die Schülerinnen und Schüler implementieren arbeitsteilig, auch ortsunabhängig, ihr Konzept mit vorhandenen sowie dazu passenden Entwicklungswerkzeugen und Produkten.
-
-Sie übergeben ihr Endprodukt mit Dokumentation zur Handhabung, auch in fremder Sprache, an die Kunden.
-
-Sie reflektieren die Eignung der eingesetzten Entwicklungswerkzeuge hinsichtlich des arbeitsteiligen Entwicklungsprozesses und die Qualität der Dokumentation.
-
----
-
-# Lernfeld 9: Netzwerke und Dienste bereitstellen
-2. Ausbildungsjahr
-Zeitrichtwert: 80 Stunden
-
-
-Die Schülerinnen und Schüler verfügen über die Kompetenz, Netzwerke und Dienste zuplanen, zu konfigurieren und zu erweitern.
-
-Die Schülerinnen und Schüler ermitteln die Anforderungen an ein Netzwerk in Kommunikation mit den Kunden. Sie informieren sich über Eigenschaften, Funktionen und Leistungsmerkmale
-der Netzwerkkomponenten und Dienste nach Kundenanforderung, auch unter Berücksichtigung sicherheitsrelevanter Merkmale. Dabei wenden sie Recherchemethoden an und werten auch
-fremdsprachliche Quellen aus
-
-Sie planen die erforderlichen Dienste und dafür notwendige Netzwerke sowie deren Infrastruktur unter Berücksichtigung interner und externer Ressourcen.
-
-Dazu vergleichen sie Konzepte hinsichtlich ihrer Nachhaltigkeit sowie der technischen und wirtschaftlichen Eignung.
-
-Sie installieren und konfigurieren Netzwerke sowie deren Infrastruktur und implementieren Dienste. Sie gewährleisten die Einhaltung von Standards, führen Funktionsprüfungen sowie
-Messungen durch und erstellen eine Dokumentation.
-
-Die Schülerinnen und Schüler beurteilen die Netzwerke sowie deren Infrastruktur und die Dienste hinsichtlich der gestellten Anforderungen, Datensicherheit und Datenschutz.
-
-Sie reflektieren ihre Lösung unter Berücksichtigung der Kundenzufriedenheit, Zukunftsfähigkeit und Vorgehensweise.

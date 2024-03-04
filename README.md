@@ -26,11 +26,7 @@ Für eine optimale Nutzung wird empfohlen, dieses Repository in [Obsidian](https
 	- [ ] Fehlerursachen und Lösungsmöglichkeiten ermitteln
 	- [ ] Situationsgerecht kommunizieren
 	- [ ] Bearbeitungsprozess analysieren/ verbessern
-- [ ] Lernfeld 7
-- [ ] Lernfeld 8
-- [ ] Lernfeld 9
-
-
+	- [ ] 
 ## Quellenangabe
 
 Einige Inhalte in diesem Projekt basieren auf Materialien, die unter der Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) Lizenz veröffentlicht wurden. Diese Inhalte wurden entsprechend der Lizenzbedingungen angepasst und dürfen nicht für kommerzielle Zwecke genutzt werden.
