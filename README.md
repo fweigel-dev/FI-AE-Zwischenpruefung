@@ -2,7 +2,11 @@
 
 ## Disclaimer
 
-Dieses Repository enthält meine Zusammenfassung für die Zwischenprüfung. Die Inhalte wurden sorgfältig ausgewählt und zusammengestellt, jedoch übernehmen ich keine Gewähr für die Vollständigkeit, Richtigkeit oder Aktualität der bereitgestellten Informationen. Die Nutzung der Inhalte und Ressourcen erfolgt auf eigenes Risiko.
+Dieses Repository enthält **MEINE** Zusammenfassung für die Zwischenprüfung, die auf **MICH** zugeschnitten ist. Die Inhalte wurden sorgfältig ausgewählt und zusammengestellt, jedoch übernehmen ich keine Gewähr für die Vollständigkeit, Richtigkeit oder Aktualität der bereitgestellten Informationen. Die Nutzung der Inhalte und Ressourcen erfolgt auf eigenes Risiko.
+
+
+> [!error] ACHTUNG!
+> Es ist bereits vorgekommen, dass Inhalte, die **NICHT** im Bildungsplan stehen, in der Prüfung vorgekommen sind!
 
 ## Empfehlung für Obsidian
 
